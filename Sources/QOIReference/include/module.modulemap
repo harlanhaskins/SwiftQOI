@@ -1,0 +1,5 @@
+module QOIReference {
+    header "qoi.h"
+    export *
+    config_macros QOI_IMPLEMENTATION
+}
